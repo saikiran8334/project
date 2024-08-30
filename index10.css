@@ -1,0 +1,373 @@
+.content{
+    display: flex;
+    width: 100%;
+    height: 700px;
+    border: 1px solid black;
+    background-image: url(./first_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  overflow-y: auto; 
+ 
+}
+.content{
+  
+}
+.ram{
+    width: 320px;
+    height: 550px;
+    border: 1px solid black;
+    margin-top: 47px;
+    position: sticky;
+    left: 0px;
+    background: rgba(0, 0, 0, 0.5);
+
+}
+.first{
+    width: 1500px;
+    height: 550px;
+    border: 1px solid  black;
+    display: flex;
+    margin-left: 180px;
+    margin-top: 50px;
+    padding: 0px 100px;
+
+    background: rgba(0, 0, 0, 0.5);
+}
+   
+#can{
+    width: 200px;
+    height: 40px;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 10px;
+    color: aliceblue;
+
+}
+#do{
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    text-align: center;
+    margin-left: 10px;
+    color: aliceblue;
+}
+#do:hover{
+    background-color: white;
+
+}
+#a{
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 50px;
+    color: aliceblue;
+}
+#a:hover{
+    background-color: white;
+}
+#b{
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 50px;
+    color: aliceblue;
+}
+#b:hover{
+    background-color: white;
+}
+#c{
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 50px;
+    color: aliceblue;
+}
+#c:hover{
+    background-color: white;
+}
+#d{
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 50px;
+    color: aliceblue;
+}
+#d:hover{
+    background-color: white;
+
+}
+.child{
+    width: 250px;
+    height: 280px;
+    margin-left: 10px;
+    margin-top: 200px; 
+}
+#ome{
+    width: 700px;
+    height: 60px;
+  
+    margin-top: 10px;
+    margin-left: 0px;
+    color: aliceblue;
+}
+#read{
+    width: 50px;
+    height: 30px;
+    border: 1px solid black;
+    margin-top: 400px;
+    margin-right: 200px;
+
+}
+.some{
+    width: 250px;
+    height: 40px;
+    /* border: 1px solid white; */
+    margin-top: 220px; 
+    text-align: center;
+    color: aliceblue;  
+    text-decoration: underline; 
+
+}
+#read{
+    width: 200px;
+    height: 40px;
+    border: 1px solid white;
+}
+#our{
+    margin-left: 190px;
+    margin-bottom: 70px;
+}
+.read{
+    margin-bottom: 10px;
+    border: 2px solid white;
+    color: aliceblue;
+    width: 100px;
+    height: 20px;
+
+
+}
+.fb{
+    margin-left: 20px;
+    margin-bottom: 200px;
+    border: 2px solid white;
+    color: aliceblue;
+}
+.fox{
+    display: flex;
+
+
+}
+a{
+    color: aliceblue;
+
+}
+
+.content2{
+    display: flex;
+    width: 100%;
+    height: 700px;
+    border: 1px solid black;
+    background-image: url(./second_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box2{
+    width: 1250px;
+    height: 550px;
+    border: 1px solid  black;
+    display: flex;
+    margin-left: 400px;
+    margin-top: 50px;
+    
+}
+.about{
+    margin-left: 100px;
+    color: white;
+}
+.font{
+    margin-top:100px;
+    margin-right: 200px;
+    display: flex;
+    text-align: left;
+
+}
+.content2{
+    background-image: url(./second_bg.jpg);
+
+}
+.a{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    column-gap: 10px;
+    overflow-y: auto;
+    background: rgba(0, 0, 0, 0.5);
+   
+}
+.b{
+    
+    padding:20px 70px;
+}
+
+.content3{
+    display: flex;
+    width: 100%;
+    height: 700px;
+    border: 1px solid black;
+    background-image: url(./third_bg\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+.box3{
+    width: 1250px;
+    height: 550px;
+    border: 1px solid black;
+    margin-top: 50px;
+    margin-left: 400px;
+overflow-x: auto;
+background: rgba(0, 0, 0, 0.5);
+
+}
+
+h2::before{
+    content:'';
+    border: 1px solid;
+    height:0px;
+ 
+   
+   
+}
+.bad1{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.bad2{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.good{
+    padding: 20px 50px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 20px;
+    color: white;
+}
+.content4{
+    display: flex;
+    width: 100%;
+    height: 700px;
+    border: 1px solid black;
+    background-image: url(./fourth_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+.box4{
+    width: 1250px;
+    height: 550px;
+    border: 1px solid black;
+    margin-top: 50px;
+    margin-left: 400px;
+overflow-x: auto;
+background: rgba(0, 0, 0, 0.5);
+
+}
+.focus{
+    width: 100%;
+    margin: 5px;
+    background: #0282;
+    overflow: auto;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 1vw;
+    background-color: black;
+    
+
+    }
+    
+    #gallery{
+        width: 30vw;
+        height: 30vh;
+    }
+    .content5{
+    display: flex;
+    width: 100%;
+    height: 700px;
+    border: 1px solid black;
+    background-image: url(./fifth_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+
+    }
+    .box5{
+        width: 1250px;
+    height: 550px;
+    border: 1px solid black;
+    margin-top: 50px;
+    margin-left: 400px;
+overflow-x: auto;
+background: rgba(0, 0, 0, 0.5);     
+
+    }
+    .eat{
+        margin-top: 40px;
+        padding-left: 40px;
+
+
+    }
+    .van{
+        color: white;
+        border: 2px solid;
+        width: 100px;
+        height: 30px;
+        margin-left:180px
+        
+     }
+     .raj{
+       margin-bottom: 150px;
+
+     }
+.box5{
+    display: flex;
+   flex-direction: row;
+   gap: 30px;
+}
+.name{
+    margin-top: 50px;
+    margin-right: 30px;
+   
+
+}
+.now{
+  border: 2px solid white;
+  text-align: center;
+  color: white;
+
+
+}
+#your1{
+    color: white;
+}
+#con{
+      background-size: contain;
+
+}
+
+
+
+
+
+
